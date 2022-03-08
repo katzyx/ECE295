@@ -98,23 +98,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
 [Document4]
-DocumentPath=M1 PCB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NIKUVVCM
-
-[Document5]
 DocumentPath=Milestone1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +114,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=..\Milestone1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
