@@ -47,6 +47,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=M1 Schematic.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=STGDDXWZ
+
+[Document2]
+DocumentPath=M2 PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AJTDNHDT
+
+[Document3]
 DocumentPath=M1 Schematic 2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -63,7 +97,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PHXSUYZG
 
-[Document2]
+[Document4]
 DocumentPath=..\..\AltiumDesigner\2022-02-25_19-26-13\7-1393779-2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -80,7 +114,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FAYAEYRX
 
-[Document3]
+[Document5]
 DocumentPath=..\..\AltiumDesigner\2022-02-25_19-26-13\7-1393779-2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -97,7 +131,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDVQEHLX
 
-[Document4]
+[Document6]
 DocumentPath=..\..\..\..\..\AltiumLL\SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -114,7 +148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
-[Document5]
+[Document7]
 DocumentPath=Milestone1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document8]
 DocumentPath=..\Milestone1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,7 +182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document9]
 DocumentPath=M2 PCB TX-RX.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
