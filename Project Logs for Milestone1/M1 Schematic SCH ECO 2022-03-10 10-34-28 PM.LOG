@@ -1,0 +1,2 @@
+Remove Pin=J12-3 From Net=/TXEN
+Remove Pin=R1-1 From Net=/TXEN
